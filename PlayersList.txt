@@ -1,0 +1,11 @@
+1	CSK	MSDhoni
+2	KKR	Dk
+3	RCB	Virat
+1	CSK	Rithuraj
+2	KKR	Venkatesh
+3	RCB	Padikal
+1	CSK	Raina
+2	KKR	Gill
+3	RCB	DeVilliers
+1	CSK	Rayudu
+		
